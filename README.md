@@ -5,3 +5,5 @@
 4. Versioning
 5. Feature Branch
 6. Hotfix
+
+coba push main
